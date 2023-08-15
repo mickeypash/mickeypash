@@ -13,10 +13,10 @@ Currently working at [TouchSurgery](https://touchsurgery.com)
 
 ### Work
 
-- [V7](https://v7labs.com/) 🤖
-- [Touchsurgery](https://digitalsurgery.com/) 👩🏻‍⚕️
-- [Ometria](https://ometria.com/) 💌
-- [JP Morgan](https://www.jpmorgan.com/global) 🏦
+- 🤖 [V7](https://v7labs.com/) 
+- 👩🏻‍⚕️ [Touchsurgery](https://digitalsurgery.com/) 
+- 💌 [Ometria](https://ometria.com/) 
+- 🏦 [JP Morgan](https://www.jpmorgan.com/global) 
 
 ### Uni
 
