@@ -1,15 +1,19 @@
 ### Hello World!
 
-My name is Mickey Pashov and I'm a software engineer.
-Currently working at [TouchSurgery](https://touchsurgery.com)
+My name is Mickey Pashov and I'm a problem solver.
+Currently working at [V7](https://v7labs.com)
 
-### Interests
+### Skills
 
 - DevOps/SRE
 - AWS
 - Python
-- Go
 - Automation
+
+### Interests
+- Startups
+- AI
+- Medical
 
 ### Work
 
@@ -22,5 +26,5 @@ Currently working at [TouchSurgery](https://touchsurgery.com)
 
 - Glasgow Uni 🏰 🏴󠁧󠁢󠁳󠁣󠁴󠁿
   * MSc IT 👾
-  * BSc Psych 🔮
+  * BSc Psych 🔮 + Comp Sci 💻
 
